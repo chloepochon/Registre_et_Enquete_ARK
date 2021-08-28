@@ -1,1 +1,19 @@
-# Registre_et_Enquete_ARK
+# Dépôt pour les livrables complémentaires - Mémoire de master 2 "Technologies numériques appliquées à l'histoire" - Chloé Pochon.
+
+
+
+Ce dépôt comprend :
+
+* dans le dossier `Registre` : 
+Les fichiers CSV issus des procédures de maintenance et de mise à jour du registre des autorités nommantes ARK.
+  - pour les institutions françaises.
+  - pour les institutions non-françaises.
+  - pour l'ensemble du registre.
+
+  Chacun comporte soit :
+    - les données brutes issues du registre.
+    - les données enrichies.
+    - les données enrichies avec un nom de colonne harmonisé.
+
+
+* dans le  dossier `Enquête` : la double-enquête complète lancée par le Bureau de l'expertise numérique et de la conservation durable du SIAF le 31 mai 2021.
