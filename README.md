@@ -1,4 +1,4 @@
-# Dépôt pour les livrables complémentaires - Mémoire de master 2 "Technologies numériques appliquées à l'histoire" - Chloé Pochon.
+# Dépôt pour les livrables complémentaires - Mémoire de master 2 "Technologies numériques appliquées à l'histoire" de l'École nationale des chartes - Chloé Pochon.
 
 
 
