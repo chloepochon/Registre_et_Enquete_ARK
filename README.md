@@ -5,7 +5,7 @@
 Ce dépôt comprend :
 
 * dans le dossier `Registre` : 
-Les fichiers CSV issus des procédures de maintenance et de mise à jour du registre des autorités nommantes ARK.
+Les fichiers CSV issus des procédures de maintenance et de mises à jour du registre des autorités nommantes ARK.
   - pour les institutions françaises.
   - pour les institutions non-françaises.
   - pour l'ensemble du registre.
