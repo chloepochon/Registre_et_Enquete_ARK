@@ -17,4 +17,4 @@ Les fichiers CSV issus des procédures de maintenance et de mises à jour du reg
     > NB : Toutes les données à caractère personnel ont été anonymisées.
 
 
-* dans le  dossier `Enquête` : la double-enquête complète lancée par le Bureau de l'expertise numérique et de la conservation durable du SIAF le 31 mai 2021.
+* dans le  dossier `Enquête` : La synthèse complète de la double-enquête lancée par le Bureau de l'expertise numérique et de la conservation durable du SIAF le 31 mai 2021 ainsi que les deux fichiers CSV des réponses apportées par les institutions y ayant répondu.
